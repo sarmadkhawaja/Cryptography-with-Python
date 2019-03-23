@@ -1,2 +1,2 @@
 # Cryptography-with-Python
-Implementation of ciphers (Encryption and Decryption Algorithms) in Python
+Implementation of CRYPTOGRAPHIC (Encryption+Decryption)and CRYPTANALYTIC (CodeBreaking) Algorithms in Python
